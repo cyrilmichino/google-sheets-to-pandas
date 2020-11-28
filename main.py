@@ -1,4 +1,5 @@
 import pandas as pd
+from getsheetID import getdata
 
 
 SPREADSHEET_URL = input("Enter th sheet url: ") #Example 'https://docs.google.com/spreadsheets/d/...'
